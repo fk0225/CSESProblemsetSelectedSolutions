@@ -1,2 +1,1 @@
-A personal favorite subset of my collection of solutions to the CSES problemset (https://cses.fi/problemset/list/).
-Mainly focused on combinatorics and graphs.
+A subset of my solutions to the CSES problemset (https://cses.fi/problemset/list/) mainly focused on combinatorics and graphs.
